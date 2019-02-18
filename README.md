@@ -1,12 +1,12 @@
 # Data Mining Techniques -- Dublin's Bus Routes Classification
 ## About
 
-This is the second project of the course Data Mining Techniques developed by **Ritsogianni Argyro** and **Triantafyllou Leonidas** in the Spring semester of 2018. In this project we learned about the Dynamic Time Warping (DTW) tεchnique and Longest Common Subsequence (LCSS) technique by applying them in order to find the nearest neighbboring bus routes in Dublin. This project is written in the programming language Python.
+This is the second project of the course Data Mining Techniques developed by **Ritsogianni Argyro** and **Triantafyllou Leonidas** in the Spring semester of 2018. In this project we learned about the Dynamic Time Warping (DTW) technique and Longest Common Subsequence (LCSS) technique by applying them in order to find the nearest neighboring bus routes in Dublin. This project is written in the programming language Python.
 
 ## Project Structure
   * Visualization of data
   * Nearest Neighbors using Dynamic Time Warping (DTW or FastDTW)
-  * Nearest routes using Longest Common Subsequence (LCSS)
+  * Nearest parts of routes using Longest Common Subsequence (LCSS)
   * Routes Classification using Dynamic Time Warping (DTW)
   * Calculating geographical distances between 2 GPS points by using Harversine Distance Formula
 
