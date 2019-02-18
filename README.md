@@ -22,12 +22,12 @@ Using Dynamic Time Warping (DTW or FastDTW) to find for every route in test_set_
 python a1_dtw.py
 ```
 
-## Part 2b - Nearest routes using Longest Common Subsequence:
+## Part 2b - Nearest routes using Longest Common Subsequence :
 Using Longest Common Subsequence (LCSS) technique to find for every route in test_set_a2.csv the k parts of routes in train_set.csv that are similar. Results are stored in Maps_A2_LCSS directory.
 ```
 python a2_lcss.py
 ```
-## Part 3 - Classification of routes:
+## Part 3 - Classification of routes :
 Classification of bus routes using k-nn(k=5) and Dynamic Time Warping (DTW or FastDTW) and prediction of the bus routes that the trips in test_set.csv are part of. Results are stored in testSet_JourneyPatternIDs.csv.
 ```
 python classification.py
