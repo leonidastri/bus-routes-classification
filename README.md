@@ -17,13 +17,13 @@ python vis_of_data.py
 ```
 
 ## Part 2a - Nearest Neighbors using Dynamic Time Warping :
-Using Dynamic Time Warping (DTW or FastDTW) to find for every route in test_set_a1.csv the 5 nearest neighboring routes in train_set.csv.
+Using Dynamic Time Warping (DTW or FastDTW) to find for every route in test_set_a1.csv the 5 nearest neighboring routes in train_set.csv. Results are stored in Maps_A1_DTW or Maps_A1_FastDTW directory respectively.
 ```
 python a1_dtw.py
 ```
 
 ## Part 2b - Nearest routes using Longest Common Subsequence:
-Using Longest Common Subsequence (LCSS) technique to find for every route in test_set_a2.csv the k parts of routes in train_set.csv that are similar.
+Using Longest Common Subsequence (LCSS) technique to find for every route in test_set_a2.csv the k parts of routes in train_set.csv that are similar. Results are stored in Maps_A2_LCSS directory.
 ```
 python a2_lcss.py
 ```
