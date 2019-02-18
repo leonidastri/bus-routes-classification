@@ -1,6 +1,0 @@
-	TripId	Time	Neighbor1	Neighbor2	Neighbor3	Neighbor4	Neighbor5
-0	Trip Id 1	172.48602080345154	JP_ID: 040D1002 #Matching points: 78	JP_ID: 040D1002 #Matching points: 78	JP_ID: 040D1002 #Matching points: 76	JP_ID: 040D1002 #Matching points: 76	JP_ID: 040D1002 #Matching points: 75
-1	Trip Id 2	176.6766140460968	JP_ID: 040D1002 #Matching points: 82	JP_ID: 040D1002 #Matching points: 78	JP_ID: 040D1002 #Matching points: 75	JP_ID: 040D1002 #Matching points: 74	JP_ID: 040D1002 #Matching points: 73
-2	Trip Id 3	86.46150016784668	JP_ID: 01451008 #Matching points: 40	JP_ID: 00790001 #Matching points: 40	JP_ID: 079A0001 #Matching points: 40	JP_ID: 01451001 #Matching points: 40	JP_ID: 067X0001 #Matching points: 40
-3	Trip Id 4	126.79316902160645	JP_ID: 00790001 #Matching points: 59	JP_ID: 00790001 #Matching points: 59	JP_ID: 00790001 #Matching points: 59	JP_ID: 00790001 #Matching points: 59	JP_ID: 00790001 #Matching points: 59
-4	Trip Id 5	156.81331610679626	JP_ID: 01200001 #Matching points: 73	JP_ID: 01200001 #Matching points: 73	JP_ID: 01200002 #Matching points: 72	JP_ID: 01200001 #Matching points: 71	JP_ID: 01200001 #Matching points: 71
